@@ -1,0 +1,140 @@
+body {background-color: #262626;}
+
+.fondo { width: 640px;
+		height: 400px;
+		background-color: white;
+		display: inline-block; 
+		margin: 50px;
+		position: relative;
+		left: 20%;
+		}
+
+#suecia {background-color: #006AA7;}
+
+.franja1 { width: 640px;
+		height: 80px;
+		background-color: #FECC00; 
+ 		margin-top: 150px;}
+
+.franja2 { width: 80px;
+		height: 400px;
+		background-color: #FECC00;
+		margin-left: 200px; 
+		position: absolute;
+		top: 0px;}
+
+
+#uruguay { background-color: #FFFFFF; }
+
+.simbolo {height: 180px;
+		width: 180px;
+		position: absolute; 
+		z-index: 2;
+		margin-left: 20px;
+		margin-top: 20px;}
+
+.cuadrado { height: 210px; 
+	width: 230px;
+	position: absolute;
+	background-color: white;
+	z-index: 1;}
+
+.franja3 {width: 640px;
+		height: 44.4px;
+		background-color: #0020A6;
+		position: relative;
+		top: 44.4px;
+		}
+
+.franja4 {width: 640px;
+		height: 44.4px;
+		background-color: #0020A6;
+		position: relative;
+		top: 88.8px;
+		}
+
+
+.franja5 {width: 640px;
+		height: 44.4px;
+		background-color: #0020A6;
+		position: relative;
+		top: 133.2px;
+	}
+
+.franja6 {width: 640px;
+		height: 44.4px;
+		background-color: #0020A6;
+		position: relative;
+		top: 177.6px;
+		}
+
+#laos {background-color: #CE1126;}
+
+.franja7 {width: 640px;
+		height: 200px;
+		position: absolute; 
+		background-color: #002868;
+		margin-top: 105px;}
+
+
+.cir {width: 170px;
+	height: 170px;
+	position: absolute;
+margin-top: 120px;
+margin-left: 231px;
+border-radius: 50%;
+background-color: white;}
+
+
+#puertorico {background-color: #EE0000;}
+
+.franja8 {background-color: white;
+			position: absolute;
+			width: 640px;
+			height: 80px;
+			bottom: 80px;
+			z-index: 1;}
+
+.franja9 {background-color: white;
+			position: absolute;
+			width: 640px;
+			height: 80px;
+			bottom: 240px;
+			z-index: 1;}
+
+.arrow {width: 0; 
+  	height: 0; 
+  	border-top: 200px solid transparent;
+ 	border-bottom: 200px solid transparent;
+  
+  	border-left: 320px solid #0050F0;
+  	position: absolute;
+  	z-index: 1000;}
+
+  	.star {width: 120px;
+  		height: 120px;
+  		position: absolute;
+  		z-index: 10000;
+  		bottom: 150px;
+  		left: 50px;}
+
+
+
+.text {text-align: center;
+		color: white;
+		font-family: 'Tomorrow', sans-serif;}
+
+a{color: white;}
+
+a:hover { color: blue; }		
+
+
+
+
+
+
+
+
+
+
+		}
