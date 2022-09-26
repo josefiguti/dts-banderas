@@ -1,0 +1,71 @@
+body {background-color: palegreen;}
+
+
+.fondo { width: 500px;
+		height: 300px;
+		margin: 50px;
+		background-color: white;
+		display: inline-block;
+		float: middle; }
+
+
+#india { background-color: black;}
+
+.franja1 {width: 500px;
+		height: 100px;
+		background-color: rgb(255, 153, 51);}
+
+.franja2 { width: 500px;
+		height: 100px;
+		background-color: white; }
+
+.franja3 {width: 500px;
+		height: 100px;
+		background-color: rgb(18, 136, 7);}
+
+.simb {height: 100px;
+		width: 100px;
+		position: absolute; left: 250px;}
+
+a {color: blue;}
+
+a:hover { background-color: lightcyan;
+		color: magenta;}
+	 
+
+.franja4 {width: 500px;
+		height: 100px;
+		background-color: white;}
+
+.franja5 {width: 500px;
+		height: 100px;
+		background-color: blue;}
+
+.franja6 {width: 500px;
+		height: 100px;
+		background-color: red;}
+
+
+#russia { background-color: greenyellow; }
+
+.columna {display: inline-block;
+			float: left;} 
+
+#ver {background-color: darkgreen;
+	width: 166px;
+	height: 300px;}
+
+#bla {background-color: white;
+	width: 166px;
+	height: 300px;}
+
+#roj {background-color: red;
+	width: 166px;
+	height: 300px;}	
+
+
+
+
+
+
+
